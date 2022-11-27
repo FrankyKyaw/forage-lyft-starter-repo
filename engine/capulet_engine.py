@@ -1,5 +1,5 @@
 from abc import ABC
-from __init__ import Engine
+from engine.engine import Engine
 
 class CapuletEngine(Engine):
 
