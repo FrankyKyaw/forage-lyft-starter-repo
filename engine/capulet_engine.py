@@ -1,6 +1,5 @@
 from abc import ABC
 from __init__ import Engine
-from car import Car
 
 class CapuletEngine(Engine):
 
